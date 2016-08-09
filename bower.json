@@ -1,0 +1,17 @@
+{
+  "name": "reddit_app",
+  "authors": [
+    "glitchybitchy <woznarowycz@gmail.com>"
+  ],
+  "description": "A news aggregator using reddit api",
+  "main": "main.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
