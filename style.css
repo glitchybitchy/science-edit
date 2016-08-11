@@ -1,0 +1,12 @@
+.card-columns{
+	column-count: 4;
+}
+
+.card{
+
+	margin: 5px auto;
+}
+
+.wrapper{
+	padding:15px;
+}
